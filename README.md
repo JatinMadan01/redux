@@ -16,17 +16,14 @@ Movix is a web application that allows users to explore movies and TV shows, pro
 
 Before getting started, make sure you have Node.js and npm installed on your machine.
 
-1. **Clone the repository:**
-   git clone https://github.com/your-username/movix.git
-
-2. **Install dependencies:**
+1. **Install dependencies:**
    npm install
 
-3. **Set up environment variables:** 
+2. **Set up environment variables:** 
    Create a .env file in the project root and add your TMDB API token:
    VITE_APP_TMDB_TOKEN=your_tmdb_api_token
    
-4. **Usage:** 
+3. **Usage:** 
   To start the development server, run:
   npm run dev
   Visit http://localhost:3000 in your browser to explore Movix.
@@ -58,13 +55,6 @@ Before getting started, make sure you have Node.js and npm installed on your mac
 
    - npm run build: Build the project for production.
    - npm run preview: Preview the production build locally.
-
-## Photos
-
-   ![image](https://github.com/vedantgour45/movie-app/assets/113295244/81df2399-ee05-43a6-8113-bc907bf08681)
-   ![image](https://github.com/vedantgour45/movie-app/assets/113295244/d0470d31-f59e-4cf8-b939-76e7582ea51d)
-   ![image](https://github.com/vedantgour45/movie-app/assets/113295244/44d5feed-98fe-43a1-ab4b-4ad8e1994a9d)
-   ![image](https://github.com/vedantgour45/movie-app/assets/113295244/98436372-2640-4d4c-b0d4-57aa6f7adbb3)
 
 
 # React + Vite
