@@ -21,19 +21,13 @@ const Footer = () => {
           entertainment comes to life through cutting-edge technology and a
           user-friendly interface.
         </div>
-        <div className="creditText">
-          Made by{" "}
-          <span>
-            <a href="https://portfolio-vedant-gour.netlify.app/">Vedant Gour</a>
-          </span>
-        </div>
         <div className="socialIcons">
-          <a href="https://github.com/vedantgour45">
+          <a href="https://github.com/JatinMadan01">
             <span className="icon">
               <FaGithub />
             </span>
           </a>
-          <a href="https://www.linkedin.com/in/vedantgour45">
+          <a href="https://www.linkedin.com/in/jatin-madan-223815216/">
             <span className="icon">
               <FaLinkedin />
             </span>
