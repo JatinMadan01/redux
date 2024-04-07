@@ -26,7 +26,7 @@ Before getting started, make sure you have Node.js and npm installed on your mac
 3. **Usage:** 
   To start the development server, run:
   npm run dev
-  Visit http://localhost:3000 in your browser to explore Movix.
+  Visit http://localhost:5173/ in your browser to explore Movix.
 
 ## Features
   - Browse movies and TV shows by categories.
